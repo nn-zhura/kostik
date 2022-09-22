@@ -1,0 +1,16 @@
+G:\КУРСЫ С#\konstantin\ProjectOne\bin\Debug\net5.0\ProjectOne.exe
+G:\КУРСЫ С#\konstantin\ProjectOne\bin\Debug\net5.0\ProjectOne.deps.json
+G:\КУРСЫ С#\konstantin\ProjectOne\bin\Debug\net5.0\ProjectOne.runtimeconfig.json
+G:\КУРСЫ С#\konstantin\ProjectOne\bin\Debug\net5.0\ProjectOne.runtimeconfig.dev.json
+G:\КУРСЫ С#\konstantin\ProjectOne\bin\Debug\net5.0\ProjectOne.dll
+G:\КУРСЫ С#\konstantin\ProjectOne\bin\Debug\net5.0\ref\ProjectOne.dll
+G:\КУРСЫ С#\konstantin\ProjectOne\bin\Debug\net5.0\ProjectOne.pdb
+G:\КУРСЫ С#\konstantin\ProjectOne\obj\Debug\net5.0\ProjectOne.csproj.AssemblyReference.cache
+G:\КУРСЫ С#\konstantin\ProjectOne\obj\Debug\net5.0\ProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+G:\КУРСЫ С#\konstantin\ProjectOne\obj\Debug\net5.0\ProjectOne.AssemblyInfoInputs.cache
+G:\КУРСЫ С#\konstantin\ProjectOne\obj\Debug\net5.0\ProjectOne.AssemblyInfo.cs
+G:\КУРСЫ С#\konstantin\ProjectOne\obj\Debug\net5.0\ProjectOne.csproj.CoreCompileInputs.cache
+G:\КУРСЫ С#\konstantin\ProjectOne\obj\Debug\net5.0\ProjectOne.dll
+G:\КУРСЫ С#\konstantin\ProjectOne\obj\Debug\net5.0\ref\ProjectOne.dll
+G:\КУРСЫ С#\konstantin\ProjectOne\obj\Debug\net5.0\ProjectOne.pdb
+G:\КУРСЫ С#\konstantin\ProjectOne\obj\Debug\net5.0\ProjectOne.genruntimeconfig.cache
